@@ -8,7 +8,7 @@ Basics, this is my personal repository (I'm bombo82), where there are keymaps I 
 
 **Clone and fork this repository freely!** It is all Open Source, with GNU licenses.
 
-Currently, pull requests are not accepted, as everythings is still in experimental version, but any bug reports or ideas for improvement are really welcome. For reports and discussions GitHub features are enabled and are the preferred way.
+Currently, pull requests are not accepted, as everythings is still in experimental version, but any bug reports or ideas for improvement are really welcome. For reports and discussions GitHub features are enabled in this repository and are the preferred way.
 
 Explore keyboards and layouts, for every keyboards there is a default layout that you can use as a basis for creating your own custom and the layout I currently use. Peek at my layout and use it as an example and inspiration for your own.
 
