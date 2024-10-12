@@ -4,7 +4,7 @@ BomboPad is a macropad with 12 key, 2 encoders, display and, optionally, Li-Po b
 
 This repository contains only one of the compatible firmware that can be installed on the BomboPad.
 
-The electrical schematics an other hardware related files can be found in the main project repository [TODO](https://aaaa.test) also has links to others compatible firmware supported directly.
+The electrical schematics an other hardware related files can be found in the main project repository [bombo82/bombopad](https://github.com/bombo82/bombopad) also has links to others compatible firmware supported directly.
 
 ## Description
 
@@ -14,7 +14,7 @@ TBD
 
 ### Prerequisites
 
-Hardware prerequisites are to own a version of assembled PCB or to handwire che necessary schematics using a solderless breadboard and/or a stripboard. For details see [TODO](https://aaaa.test).
+Hardware prerequisites are to own a version of assembled PCB or to handwire che necessary schematics using a solderless breadboard and/or a stripboard. For details see [bombo82/bombopad](https://github.com/bombo82/bombopad).
 
 Software requirements are only this repository, please read the main README in the root directly for how to build firmware.
 
@@ -39,7 +39,7 @@ Support for different versions of hardware is managed through layouts. The lates
 |  v0.1  | scrapped       |
 |  v0.0  | prefix v0.0    |
 
-Summary of hardware version history, details on [TODO](https://aaaa.test):
+Summary of hardware version history, details on [bombo82/bombopad](https://github.com/bombo82/bombopad):
 * **v0.3 - PCB release**
     * First version with PCB
     * Wired build using ProMicro compatible microcontroller with QMK or VIAL firmware
@@ -66,6 +66,14 @@ Summary of hardware version history, details on [TODO](https://aaaa.test):
 
 Main contributors names and contact info:
 - [Gianni Bombelli (bombo82)](https://github.com/bombo82)
+
+## Licenses
+
+Documentation are licensed under GNU Free Documentation License as published by the Free Software Foundation, either version 1.3 of the License, or (at your option) any later version.
+
+Source code are licensed under GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+Hardware design and all related things are licensed under CERN Open Hardware License as published by the CERN, either version 2 of the License, or (at your option) any later version.
 
 ## License Disclaimer
 
